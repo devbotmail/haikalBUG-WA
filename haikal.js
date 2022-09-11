@@ -4230,10 +4230,7 @@ break
 case 'menu': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
-const anu = {
-                        } tutor = fs.readFileSync('./tutor/selamatdatang.mp3')
-                        xavior.
-xavior.sendMessage(m.chat, {audio: tutor, mimetype:'audio/mpeg', ptt:true }, {quoted:m})
+const anu = {                      
 video:fs.readFileSync("./baseikal/video/haikal.mp4"),
 gifPlayback:true,
 jpegThumbnail:log0,
