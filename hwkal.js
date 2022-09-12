@@ -17,21 +17,21 @@ global.youtube = 'https://youtube.com/c/HwModsWa857'
 global.ig = 'https://www.instagram.com/fauzibeban__'
 global.mygc = 'wa.me/6287837703726'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
-global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
+global.linkgrupss = "https://chat.whatsapp.com/EeU0QNEpgCpBI8FNnkYxSw"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.email = 'fauzibeban@yahoo.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Fauzi' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝙁𝘼𝙐𝙕𝙄𝍨' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'FauziBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Fauzi' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = '𝙁𝘼𝙐𝙕𝙄𝍨' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['19373405876']
+global.owner = ['6287837703726']
 global.premium = ['6287837703726']
 global.packname = 'Dibuat Oleh'
 global.ownerr = ['Fauzi']
-global.author = 'Fauzi'
+global.author = '𝙁𝘼𝙐𝙕𝙄𝍨'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
@@ -41,7 +41,7 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot Fauzi',
+    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot 𝙁𝘼𝙐𝙕𝙄𝍨',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
