@@ -15,22 +15,22 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/HwModsWa857'
 global.ig = 'https://www.instagram.com/fauzibeban__'
-global.mygc = 'wa.me/6287837703726'
+global.mygc = 'wa.me/6289688069444?text=helllao+wahai+lord'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/EeU0QNEpgCpBI8FNnkYxSw"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'fauzibeban@yahoo.com'
+global.email = 'bisnismail.developer@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '𝙁𝘼𝙐𝙕𝙄𝍨' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'FauziBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'Lord+6289688069444zMD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = '𝙁𝘼𝙐𝙕𝙄𝍨' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6287837703726']
-global.premium = ['6287837703726']
+global.owner = ['6289688069444']
+global.premium = ['6289688069444']
 global.packname = 'Dibuat Oleh'
-global.ownerr = ['Fauzi']
+global.ownerr = ['Lord']
 global.author = '𝙁𝘼𝙐𝙕𝙄𝍨'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
